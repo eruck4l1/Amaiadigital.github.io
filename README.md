@@ -1,2 +1,2 @@
-# Eruck4l1/maiadigital.github.io
+# maiadigital.github.io
 Pagina web
